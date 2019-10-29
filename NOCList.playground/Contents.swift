@@ -45,7 +45,7 @@ let agentEleven = (coverName: "Frank Barnes", realName: "Dale Dye", accessLevel:
 
 //: ## Step 2
 //: Place the above constants inside an array. Declare this array as a constant as well.
-
+let agents = [agentOne, agentTwo, agentThree, agentFour, agentFive, agentSix, agentSeven, agentEight, agentNine, agentTen, agentEleven ]
 
 
 //: ## Step 3
